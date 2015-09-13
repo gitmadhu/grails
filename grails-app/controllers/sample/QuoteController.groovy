@@ -20,7 +20,7 @@ class QuoteController {
 			randomQuote = allQuotes[randomIdx]
 		} else {
 			randomQuote = new Quote(author: "Anonymous",
-			content: "Real Programmers Don't eat Quiche size: "+allQuotes?.size())
+			content: "Real Programmers Don't eat Quiche size: ")
 		}
 		[ quote : randomQuote]
 	}
