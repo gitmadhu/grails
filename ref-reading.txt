@@ -1,0 +1,2 @@
+grails in Action
+C:\Users\madbonak\Documents\workspace-ggts-3.6.4.RELEASE\sample
